@@ -1,4 +1,3 @@
-# CS 121 - Advanced Computer Programming
 # Inventory Management System
 
 ## I. Project Overview
